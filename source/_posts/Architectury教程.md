@@ -1,7 +1,10 @@
 ---
 title: Architectury教程
 date: 2023-10-24 18:10:25
-tags: 我的世界,模组
+tags: 
+- 我的世界
+- 模组
+cover: https://w.wallhaven.cc/full/qz/wallhaven-qzpj95.png
 ---
 # Architectury是什么东西
 

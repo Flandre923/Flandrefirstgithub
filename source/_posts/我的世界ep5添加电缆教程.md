@@ -1,7 +1,10 @@
 ---
 title: 我的世界Forge ep5：添加线缆
 date: 2023-10-27 18:10:25
-tags: 我的世界,模组
+tags: 
+- 我的世界
+- 模组
+cover: https://w.wallhaven.cc/full/yx/wallhaven-yx9dvd.jpg
 ---
 # ep5
 
@@ -29,7 +32,7 @@ tags: 我的世界,模组
 
 ### 线缆
 
-![cables-1e682971f988e084ee146460c1910911](D:\code\Project\markdown\新建文件夹\cables-1e682971f988e084ee146460c1910911.png)
+![cables-1e682971f988e084ee146460c1910911](https://picst.sunbangyan.cn/2023/10/27/805bccded2b6f545898a4a05a2b24f44.png)
 
 #### 连接类型枚举
 
