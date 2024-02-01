@@ -4,7 +4,7 @@ date: 2023-12-03 14:14:19
 tags:
 - opengl
 - java
-cover: 
+cover: https://view.moezx.cc/images/2022/02/24/21072e30a955e2aa314d4b879b95ebf7.png
 
 ---
 
